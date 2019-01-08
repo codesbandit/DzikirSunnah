@@ -76,8 +76,8 @@ public class MainActivity extends AppCompatActivity {
 
         //Toolbar support back action
         setSupportActionBar(mToolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+//        getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setTitle("Dzikir Pagi & Petang");
 
         tabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
