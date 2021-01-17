@@ -1,4 +1,4 @@
-package net.dlingogroups.dzikirsunnah;
+package net.unlimit.dzikirsunnah;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -8,15 +8,16 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class dzikir2 extends Fragment {
+public class dzikir1 extends Fragment {
     View view;
-    public dzikir2() {
+
+    public dzikir1() {
     }
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        view= inflater.inflate(R.layout.dzikir2,container,false);
+        view = inflater.inflate(R.layout.dzikir1, container,false);
         return view;
     }
 }

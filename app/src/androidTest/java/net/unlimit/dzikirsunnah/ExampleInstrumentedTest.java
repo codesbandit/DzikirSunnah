@@ -1,4 +1,4 @@
-package net.dlingogroups.dzikirsunnah;
+package net.unlimit.dzikirsunnah;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

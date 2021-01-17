@@ -50,7 +50,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPembukaan"
@@ -93,7 +93,7 @@
                     android:layout_marginBottom="5dp"
                     android:textColor="@color/colorSecondText"/>
 
-                <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                <net.unlimit.dzikirsunnah.ExpandableTextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/artiAyatKursi"
@@ -110,7 +110,7 @@
                     android:layout_marginLeft="15dp"
                     android:textColor="@color/colorSecondText"/>
 
-                <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                <net.unlimit.dzikirsunnah.ExpandableTextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/sumberAyatKursi"
@@ -128,7 +128,7 @@
                     android:layout_marginLeft="15dp"
                     android:textColor="@color/colorSecondText"/>
 
-                <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                <net.unlimit.dzikirsunnah.ExpandableTextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/faedahAyatKursi"
@@ -174,7 +174,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiIkhlas"
@@ -221,7 +221,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiFalaq"
@@ -269,7 +269,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiNaas"
@@ -316,7 +316,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi1"
@@ -334,7 +334,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi1"
@@ -352,7 +352,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi1"
@@ -400,7 +400,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi2"
@@ -418,7 +418,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi2"
@@ -465,7 +465,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi3"
@@ -483,7 +483,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi3"
@@ -501,7 +501,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi3"
@@ -549,7 +549,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi4"
@@ -567,7 +567,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi4"
@@ -585,7 +585,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi4"
@@ -632,7 +632,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi5"
@@ -650,7 +650,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi5"
@@ -668,7 +668,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi5"
@@ -716,7 +716,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi6"
@@ -734,7 +734,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi6"
@@ -752,7 +752,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi6"
@@ -799,7 +799,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi7"
@@ -817,7 +817,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi7"
@@ -835,7 +835,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi7"
@@ -883,7 +883,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi8"
@@ -901,7 +901,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi8"
@@ -919,7 +919,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi8"
@@ -966,7 +966,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi9"
@@ -984,7 +984,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi9"
@@ -1002,7 +1002,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi9"
@@ -1050,7 +1050,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi10"
@@ -1068,7 +1068,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi10"
@@ -1115,7 +1115,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi11"
@@ -1133,7 +1133,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi11"
@@ -1151,7 +1151,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi11"
@@ -1199,7 +1199,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi12"
@@ -1217,7 +1217,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi12"
@@ -1235,7 +1235,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi12"
@@ -1283,7 +1283,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi13"
@@ -1301,7 +1301,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi13"
@@ -1319,7 +1319,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi13"
@@ -1366,7 +1366,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi14"
@@ -1384,7 +1384,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/faedahPagi14"
@@ -1402,7 +1402,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi14"
@@ -1450,7 +1450,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi15"
@@ -1468,7 +1468,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi15"
@@ -1515,7 +1515,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/artiPagi16"
@@ -1533,7 +1533,7 @@
                         android:layout_marginBottom="5dp"
                         android:textColor="@color/colorSecondText"/>
 
-                    <net.dlingogroups.dzikirsunnah.ExpandableTextView
+                    <net.unlimit.dzikirsunnah.ExpandableTextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/sumberPagi16"

@@ -1,4 +1,4 @@
-package net.dlingogroups.dzikirsunnah;
+package net.unlimit.dzikirsunnah;
 
 import org.junit.Test;
 

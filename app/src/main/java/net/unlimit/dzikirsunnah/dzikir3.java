@@ -1,6 +1,5 @@
-package net.dlingogroups.dzikirsunnah;
+package net.unlimit.dzikirsunnah;
 
-import android.graphics.drawable.AnimatedImageDrawable;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -9,16 +8,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class dzikir1 extends Fragment {
+public class dzikir3 extends Fragment {
     View view;
-
-    public dzikir1() {
+    public dzikir3() {
     }
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.dzikir1, container,false);
+        view=inflater.inflate(R.layout.dzikir3,container,false);
         return view;
     }
 }

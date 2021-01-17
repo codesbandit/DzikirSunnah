@@ -1,8 +1,6 @@
-package net.dlingogroups.dzikirsunnah;
+package net.unlimit.dzikirsunnah;
 
 import android.content.Context;
-import android.content.res.TypedArray;
-import android.text.SpannableStringBuilder;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.TextView;
